@@ -1,8 +1,5 @@
 def max_min(numbers):
     
-    if not numbers:
-        return None, None 
-    
     max_num = max(numbers)  
     min_num = min(numbers) 
     
